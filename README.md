@@ -1,7 +1,8 @@
 # V1-NextJs
 NextJs-Study
 
-#git commit rule
+# git commit rule
+
 ## 1. 커밋 메시지 구조
 기본적으로 커밋 메시지는 아래와 같이 제목/본문/꼬리말로 구성한다.
 
