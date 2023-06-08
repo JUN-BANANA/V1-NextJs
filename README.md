@@ -14,13 +14,18 @@ footer
 
 ## 2. 커밋 종류
 ```
-- feat 		: 새로운 기능 추가
-- fix 		: 버그 수정
-- docs 		: 문서 수정
-- style 	: 코드 formatting, 세미콜론(;) 누락, 코드 변경이 없는 경우
-- refactor 	: 코드 리팩토링
-- test 		: 테스트 코드, 리팽토링 테스트 코드 추가
-- chore 	: 빌드 업무 수정, 패키지 매니저 수정
+-Add: 레이아웃 / 기능 추가
+-Modify: 내용 수정
+-Remove: 내용 삭제 (폴더나 파일)
+-Feat: 새로운 기능 추가
+-Fix: 버그 및 오류 수정
+-Docs: 문서 수정 (ex: README.md)
+-Style: 코드 포맷팅이나 세미콜론 누락 수정 → 코드 변경 없음
+-Refactor: 코드 리펙토링
+-Test: 테스트 코드 추가
+-Chore: 빌드 수정, 패키지 매니저 수정
+-Init: 시스템 초기 설정
+-Dir: 폴더 및 파일 구조 변경
 ```
 
 ### > subject
